@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T11:57:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T11:57:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "Models\\Answer.cs",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Answer.cs",
+              "RelativeToolTip": "Models\\Answer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:22:09.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:17:16.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnswersController.cs",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\AnswersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnswersController.cs",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\AnswersController.cs",
+              "RelativeToolTip": "Controllers\\AnswersController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4v0IAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:07:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionsController.cs",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:07:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T20:27:06.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

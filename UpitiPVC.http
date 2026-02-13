@@ -1,0 +1,6 @@
+@UpitiPVC_HostAddress = http://localhost:5032
+
+GET {{UpitiPVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
