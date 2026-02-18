@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpitiPVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83bd935a8e1221148bb675651a7874b5264b3180")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5323ed3a8f1eb4122a2fed73411bff46677ad847")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpitiPVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpitiPVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

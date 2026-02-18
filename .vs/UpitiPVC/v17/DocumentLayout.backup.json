@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\upitipvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:upitipvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -51,13 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpitiPVC",
-              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\UpitiPVC.csproj",
-              "RelativeDocumentMoniker": "UpitiPVC.csproj",
-              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\UpitiPVC.csproj",
-              "RelativeToolTip": "UpitiPVC.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T08:09:10.917Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-18T08:10:49.269Z",
               "EditorCaption": ""
             },
             {
@@ -83,7 +84,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T11:57:05.465Z"
+              "WhenOpened": "2026-02-12T11:57:05.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,7 +97,8 @@
               "RelativeToolTip": "Models\\Answer.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:22:09.508Z"
+              "WhenOpened": "2026-02-04T21:22:09.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,7 +110,8 @@
               "RelativeToolTip": "Models\\Question.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:17:16.378Z"
+              "WhenOpened": "2026-02-04T21:17:16.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +123,8 @@
               "RelativeToolTip": "Controllers\\AnswersController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAD4v0IAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:07:58.703Z"
+              "WhenOpened": "2026-02-04T21:07:58.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,9 +134,10 @@
               "RelativeDocumentMoniker": "Controllers\\QuestionsController.cs",
               "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\QuestionsController.cs",
               "RelativeToolTip": "Controllers\\QuestionsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:07:29.923Z"
+              "WhenOpened": "2026-02-04T21:07:29.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,9 +147,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T20:27:06.288Z"
+              "WhenOpened": "2026-02-04T20:27:06.288Z",
+              "EditorCaption": ""
             }
           ]
         },
