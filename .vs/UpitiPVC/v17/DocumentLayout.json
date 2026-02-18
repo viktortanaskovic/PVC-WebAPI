@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|d:\\projekti\\pvc stolarija projekat\\backend\\upitipvc\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED4959-2CE2-4077-93B2-1BAE05546A3E}|UpitiPVC.csproj|solutionrelative:controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -58,12 +50,11 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-18T08:10:49.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:10:49.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -71,47 +62,25 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T11:57:17.759Z"
+              "WhenOpened": "2026-02-12T11:57:17.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T11:57:05.465Z"
+              "WhenOpened": "2026-02-12T11:57:05.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Answer.cs",
-              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Answer.cs",
-              "RelativeDocumentMoniker": "Models\\Answer.cs",
-              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Answer.cs",
-              "RelativeToolTip": "Models\\Answer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:22:09.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "Models\\Question.cs",
-              "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Models\\Question.cs",
-              "RelativeToolTip": "Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:17:16.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AnswersController.cs",
               "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\AnswersController.cs",
               "RelativeDocumentMoniker": "Controllers\\AnswersController.cs",
@@ -119,11 +88,12 @@
               "RelativeToolTip": "Controllers\\AnswersController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAD4v0IAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:07:58.703Z"
+              "WhenOpened": "2026-02-04T21:07:58.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "QuestionsController.cs",
               "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Controllers\\QuestionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuestionsController.cs",
@@ -135,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projekti\\PVC stolarija projekat\\Backend\\UpitiPVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T20:27:06.288Z",
               "EditorCaption": ""
