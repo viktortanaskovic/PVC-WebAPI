@@ -17,6 +17,12 @@ namespace UpitiPVC.Models
         [StringLength(100)]
         public string EmailAddress { get; set; } = null!;
         [Required]
+        [StringLength(25)]
+        public string PhoneNumber { get; set; } = null!;
+        [Required]
+        [StringLength(100)]
+        public string QuestionTitle { get; set; } = null!;
+        [Required]
         [StringLength(500)]
         public string QuestionText { get; set; } = null!;
         [Required]
